@@ -1,0 +1,370 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Introduction">
+		<param name="Local" value="std/default.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Schema">
+		<param name="Local" value="BookStoreLib.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Classes">
+			<param name="Local" value="classList.htm#Classes">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="ClassFactory">
+				<param name="Local" value="std/ClassFactory.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="std/ClassFactory.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="std/ClassFactory.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="std/ClassFactory.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="std/ClassFactory.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="AuthorName">
+				<param name="Local" value="BookStoreLib\Cls_AuthorName.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="AuthorName">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\Clone.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\Equals.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXml.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXmlElement.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXmlFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXmlStream.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromJson">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromJson.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromJsonFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromJsonFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromJsonStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromJsonStream.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_GetBase.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\GetElementName.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\NoBanner.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToXml.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToXmlFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToXmlStream.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToJson">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToJson.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToJsonFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToJsonFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToJsonStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToJsonStream.html">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="getFirst_name">
+					<param name="Local" value="BookStoreLib\Attr_AuthorName_first_name.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="getLast_name">
+					<param name="Local" value="BookStoreLib\Attr_AuthorName_last_name.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Bookstore">
+				<param name="Local" value="BookStoreLib\Cls_Bookstore.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Bookstore">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\Clone.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\Equals.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXml.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXmlElement.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXmlFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXmlStream.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromJson">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromJson.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromJsonFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromJsonFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromJsonStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromJsonStream.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_GetBase.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\GetElementName.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\NoBanner.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToXml.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToXmlFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToXmlStream.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToJson">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToJson.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToJsonFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToJsonFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToJsonStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToJsonStream.html">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="getBook">
+					<param name="Local" value="BookStoreLib\Attr_Bookstore_book.HTM">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="BookType">
+				<param name="Local" value="BookStoreLib\Cls_BookType.htm">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="BookType">
+					<param name="Local" value="std/ClassConstructor.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clone">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\Clone.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Equals">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\Equals.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXml">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXml.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlElement">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXmlElement.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXmlFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromXmlStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromXmlStream.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromJson">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromJson.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromJsonFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromJsonFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="FromJsonStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_FromJsonStream.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetBase">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_GetBase.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="GetElementName">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\GetElementName.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NoBanner">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectBase\NoBanner.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXml">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToXml.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToXmlFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToXmlStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToXmlStream.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToJson">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToJson.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToJsonFile">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToJsonFile.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ToJsonStream">
+					<param name="Local" value="ms-its:XmlDataBinder.chm::/com_liquid_technologies_ltxmllib_XmlObjectInterface_ToJsonStream.html">
+					</OBJECT>
+
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Namespace">
+					<param name="Local" value="std/Namespace.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="getPrice">
+					<param name="Local" value="BookStoreLib\Attr_BookType_price.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="getPublicationdate">
+					<param name="Local" value="BookStoreLib\Attr_BookType_publicationdate.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="isValidPublicationdate">
+					<param name="Local" value="std/IsValid.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="getISBN">
+					<param name="Local" value="BookStoreLib\Attr_BookType_ISBN.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="isValidISBN">
+					<param name="Local" value="std/IsValid.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="getTitle">
+					<param name="Local" value="BookStoreLib\Attr_BookType_title.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="getAuthor">
+					<param name="Local" value="BookStoreLib\Attr_BookType_author.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="getGenre">
+					<param name="Local" value="BookStoreLib\Attr_BookType_genre.HTM">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="isValidGenre">
+					<param name="Local" value="std/IsValid.HTM">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Enumerations">
+			<param name="Local" value="classList.htm#Enumerations">
+			</OBJECT>
+		<UL>
+		</UL>
+	</UL>
+</UL>
+<OBJECT type="text/sitemap">
+	<param name="Merge" value="XmlDataBinder.chm::/XmlDataBinder.hhc">
+	</OBJECT>
+</BODY>
+</HTML>
+

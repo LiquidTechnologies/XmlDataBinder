@@ -1,0 +1,113 @@
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<TITLE><A HREF="Col_BookTypeCol.htm">BookStoreLib.BookTypeCol</A> getBook - Bookstore</TITLE>
+<LINK REL=STYLESHEET HREF="std/schema.css" TYPE="text/css">
+</HEAD>
+<BODY topmargin=0 rightmargin=0 leftmargin=0 style="background-image: url(../titletile.jpg); background-repeat:repeat-x; background-position: 0 0;" >
+<DIV CLASS="PageHeading"><A HREF="Col_BookTypeCol.htm">BookStoreLib.BookTypeCol</A> getBook</DIV>
+<IMG src="std/GradLeft.jpg" width=7 height=378 alt="" border="0" style="position:absolute; left:10; top:18;z-Index:2">
+<IMG src="std/GradTop.jpg" width=352 height=7 alt="" border="0" align="top" style="position:absolute; left:10; top:18; z-index:1">
+
+<TABLE CLASS="InfoTable" cellpadding=0 cellspacing=0>
+	<TR height=20>
+		<TD width=20>&nbsp;</TD>
+		<TD valign=top align=left width=9 bgcolor="#cccc66"><IMG SRC="std/tablecorner.jpg" align=top></TD>
+		<TD CLASS="TableLightLabel" WIDTH=206>Property</TD>
+		<TD CLASS="TableLightLabel" >Description</TD>
+		<TD width=20>&nbsp;</TD>
+	</TR>
+	<TR height=20 VALIGN="TOP">
+		<TD width=20>&nbsp;</TD>
+		<TD CLASS="TableLightDesc">&nbsp;</TD>
+		<TD CLASS="TableLightDesc">Property Name</TD>
+		<TD CLASS="TableLightDesc">getBook</TD>
+		<TD width=20>&nbsp;</TD>
+	</TR>
+	<TR height=20 VALIGN="TOP">
+		<TD width=20>&nbsp;</TD>
+		<TD CLASS="TableLightDesc">&nbsp;</TD>
+		<TD CLASS="TableLightDesc">Property Type</TD>
+		<TD CLASS="TableLightDesc"><A HREF="Col_BookTypeCol.htm">BookStoreLib.BookTypeCol</A></TD>
+		<TD width=20>&nbsp;</TD>
+	</TR>
+	<TR height=20 VALIGN="TOP">
+		<TD width=20>&nbsp;</TD>
+		<TD CLASS="TableLightDesc">&nbsp;</TD>
+		<TD CLASS="TableLightDesc">Parent Class</TD>
+		<TD CLASS="TableLightDesc"><A HREF="Cls_Bookstore.htm">BookStoreLib.Bookstore</A></TD>
+		<TD width=20>&nbsp;</TD>
+	</TR>
+	<TR height=20 VALIGN="TOP">
+		<TD width=20>&nbsp;</TD>
+		<TD CLASS="TableLightDesc">&nbsp;</TD>
+		<TD CLASS="TableLightDesc">XML Type</TD>
+		<TD CLASS="TableLightDesc">Element</TD>
+		<TD width=20>&nbsp;</TD>
+	</TR>
+	<TR height=20 VALIGN="TOP">
+		<TD width=20>&nbsp;</TD>
+		<TD CLASS="TableLightDesc">&nbsp;</TD>
+		<TD CLASS="TableLightDesc">Accessors</TD>
+		<TD CLASS="TableLightDesc">Read Only</TD>
+		<TD width=20>&nbsp;</TD>
+	</TR>
+	<TR height=20 VALIGN="TOP">
+		<TD width=20>&nbsp;</TD>
+		<TD CLASS="TableLightDesc">&nbsp;</TD>
+		<TD CLASS="TableLightDesc">Description</TD>
+		<TD CLASS="TableLightDesc">			A collection of <A HREF="../BookStoreLib/Cls_BookType.htm">BookType</A>s
+</TD>
+		<TD width=20>&nbsp;</TD>
+	</TR>
+	<TR height=20 VALIGN="TOP">
+		<TD width=20>&nbsp;</TD>
+		<TD CLASS="TableLightDesc">&nbsp;</TD>
+		<TD CLASS="TableLightDesc">Remarks</TD>
+		<TD CLASS="TableLightDesc">			This collection may contain 0 to Many BookTypes.<BR>
+<BR><BR></TD>
+		<TD width=20>&nbsp;</TD>
+	</TR>
+	<TR height=20 VALIGN="TOP">
+		<TD width=20>&nbsp;</TD>
+		<TD CLASS="TableLightDesc">&nbsp;</TD>
+		<TD CLASS="TableLightDesc">Example</TD>
+		<TD CLASS="TableLightDesc">      <PRE>
+<A HREF="Cls_BookType.htm">BookStoreLib.BookType</A> itm;
+<A HREF="Cls_Bookstore.htm">BookStoreLib.Bookstore</A> parent = ...;
+
+// The collection object will already exist, but we may want to add objects to it
+
+// This method creates a new object adds it to the collection.
+// Add returns the newly created object
+itm = parent.getBook().add();
+
+// Alternatively you can add an existing object to the collection
+itm = new <A HREF="Cls_BookType.htm">BookStoreLib.BookType</A>();
+parent.getBook().add(itm);
+
+//-------------------------------------------------------------
+// To iterate through the collection
+
+// using the iterator
+for(Iterator itr = parent.getBook().getIterator(); itr.hasNext();) {
+  itm = (<A HREF="Cls_BookType.htm">BookStoreLib.BookType</A>)itr.next();
+  System.out.println("Object Value " +  v.toString());
+}
+
+// using an index
+for (int i=0; i&lt;parent.getBook().count(); i++) {
+  itm = (<A HREF="Cls_BookType.htm">BookStoreLib.BookType</A>)parent.getBook().getItem(i);
+  System.out.println("Object Value " + itm.toString());
+}
+</PRE>
+</TD>
+		<TD width=20>&nbsp;</TD>
+	</TR>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+

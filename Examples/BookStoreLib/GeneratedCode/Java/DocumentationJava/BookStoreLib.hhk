@@ -1,0 +1,150 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Liquid Technologies; Liquid XML Data Binder">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="AuthorName (Class)">
+		<param name="Local" value="BookStoreLib\Cls_AuthorName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.AuthorName (Class)">
+		<param name="Local" value="BookStoreLib\Cls_AuthorName.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="AuthorName.getFirst_name (Property)">
+		<param name="Local" value="BookStoreLib\Attr_AuthorName_first_name.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getFirst_name (Property)">
+		<param name="Local" value="BookStoreLib\Attr_AuthorName_first_name.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.AuthorName.getFirst_name (Property)">
+		<param name="Local" value="BookStoreLib\Attr_AuthorName_first_name.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="AuthorName.getLast_name (Property)">
+		<param name="Local" value="BookStoreLib\Attr_AuthorName_last_name.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getLast_name (Property)">
+		<param name="Local" value="BookStoreLib\Attr_AuthorName_last_name.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.AuthorName.getLast_name (Property)">
+		<param name="Local" value="BookStoreLib\Attr_AuthorName_last_name.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bookstore (Class)">
+		<param name="Local" value="BookStoreLib\Cls_Bookstore.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.Bookstore (Class)">
+		<param name="Local" value="BookStoreLib\Cls_Bookstore.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bookstore.getBook (Property)">
+		<param name="Local" value="BookStoreLib\Attr_Bookstore_book.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getBook (Property)">
+		<param name="Local" value="BookStoreLib\Attr_Bookstore_book.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.Bookstore.getBook (Property)">
+		<param name="Local" value="BookStoreLib\Attr_Bookstore_book.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookType (Class)">
+		<param name="Local" value="BookStoreLib\Cls_BookType.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.BookType (Class)">
+		<param name="Local" value="BookStoreLib\Cls_BookType.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookType.getPrice (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_price.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getPrice (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_price.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.BookType.getPrice (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_price.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookType.getPublicationdate (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_publicationdate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getPublicationdate (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_publicationdate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.BookType.getPublicationdate (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_publicationdate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookType.getISBN (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_ISBN.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getISBN (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_ISBN.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.BookType.getISBN (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_ISBN.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookType.getTitle (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_title.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getTitle (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_title.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.BookType.getTitle (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_title.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookType.getAuthor (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_author.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getAuthor (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_author.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.BookType.getAuthor (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_author.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookType.getGenre (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_genre.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="getGenre (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_genre.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BookStoreLib.BookType.getGenre (Property)">
+		<param name="Local" value="BookStoreLib\Attr_BookType_genre.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="XmlDataBinder.hhc">
+		<param name="Local" value="XmlDataBinder.chm::/XmlDataBinder.hhc">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Site.hhc">
+		<param name="Local" value="LtExamples.chm::/Site.hhc">
+		</OBJECT>
+</UL>
+</BODY></HTML>
+

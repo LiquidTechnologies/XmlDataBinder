@@ -1,0 +1,43 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=BookStoreLib.chm
+Contents file=BookStoreLib.hhc
+Default topic=std/default.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=BookStoreLib.hhk
+Language=0x809 English (United Kingdom)
+Title=BookStoreLib
+
+
+[FILES]
+BookStoreLib\Cls_AuthorName.htm
+BookStoreLib\Attr_AuthorName_first_name.htm
+BookStoreLib\Attr_AuthorName_last_name.htm
+BookStoreLib\Cls_Bookstore.htm
+BookStoreLib\Attr_Bookstore_book.htm
+BookStoreLib\Cls_BookType.htm
+BookStoreLib\Attr_BookType_price.htm
+BookStoreLib\Attr_BookType_publicationdate.htm
+BookStoreLib\Attr_BookType_ISBN.htm
+BookStoreLib\Attr_BookType_title.htm
+BookStoreLib\Attr_BookType_author.htm
+BookStoreLib\Attr_BookType_genre.htm
+BookStoreLib/Col_BookTypeCol.htm
+ClassFactory.htm
+std/ClassConstructor.htm
+std/ElementText.htm
+std/ElementPrimitiveValue.htm
+std/IsValid.htm
+std/Namespace.htm
+std/default.htm
+
+[INFOTYPES]
+
+
+[MERGE FILES]
+LtExamples.chm
+XmlDataBinder.chm
+
+
+

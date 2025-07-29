@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bookstore  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			xsi:noNamespaceSchemaLocation="BookStore.xsd">
+	<book price="8.99" publicationdate="1981-05-11" ISBN="1-861003-11-0">
+		<title>The Autobiography of Benjamin Franklin</title>
+		<author>
+			<first-name>Benjamin</first-name>
+			<last-name>Franklin</last-name>
+		</author>
+		<genre>autobiography</genre>
+	</book>
+</bookstore>
